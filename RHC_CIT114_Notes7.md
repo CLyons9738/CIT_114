@@ -12,11 +12,11 @@
 
 ### IP addresses and DNS 
 * All devices have a unique address.
-Traditional Ip addresses are 32 bits long. Each section is 8 bits.
-IPv6 uses 128 bits and its being used now because we need a longer Internet address.
-DNS services are divided into heiarchy and they bounce information off of eachother and help eachother out.
-DNS was originally created to be open communication protocol. Because of this its very vulnurable to cyber attacks. 
-DNS Spoofing is when a hacker changes the DNS server and changes it to match a domain name with the wrong IP address.  
+* Traditional Ip addresses are 32 bits long. Each section is 8 bits.
+* IPv6 uses 128 bits and its being used now because we need a longer Internet address.
+* DNS services are divided into heiarchy and they bounce information off of eachother and help eachother out.
+* DNS was originally created to be open communication protocol. Because of this its very vulnurable to cyber attacks. 
+* DNS Spoofing is when a hacker changes the DNS server and changes it to match a domain name with the wrong IP address.  
 ### Basics of binary math
 * A byte-Eight bits
 **What is Binary 00000010 in decimal?**
@@ -28,3 +28,12 @@ DNS Spoofing is when a hacker changes the DNS server and changes it to match a d
 * What is decimal 154 in binary? = 10011010
 128 64  32 16  8  4  2  1 
 1   0   0  1   1  0  1  0 
+* *Binary is just 2 to the **X** power. Ie 2^2 4^2 8^2
+* 10 = 2
+* 11 = 3
+* 10010 = 18
+### Subnets
+* A subnet is a network inside of a network
+* Makes networks to work more efficiently
+### Amazon VPC
+*
