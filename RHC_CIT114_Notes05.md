@@ -1,4 +1,4 @@
-# Week 7 notes
+# Week 7 notes(Networking & Content Delivery)
 
 ### Definitions
 * The internet is a global network of connected smaller networks
