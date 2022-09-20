@@ -36,4 +36,6 @@
 * A subnet is a network inside of a network
 * Makes networks to work more efficiently
 ### Amazon VPC
-*
+* VPC is short for Virtual Private Cloud
+* VPC is a creation of Subnets
+* Configuration of routing tables and network gateways.
